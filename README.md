@@ -1,6 +1,6 @@
 ### Hi there! I am Milena 👋
 
-- 🔭 I’m currently working on Product Calculation
+
 - 🌱 I’m currently learning C# and Python
 - 💬 Ask me about everything
 - 📫 How to reach me: moraesoliveira.milena@gmail.com
